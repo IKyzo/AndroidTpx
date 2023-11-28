@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15432874910",
+    "project_id": "androidtp-b846c",
+    "storage_bucket": "androidtp-b846c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15432874910:android:80443c347d96e2bc93f48f",
+        "android_client_info": {
+          "package_name": "com.example.androidtpx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALa6YxUkLSfNiyO5kyk7HP9804oLw9JQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
